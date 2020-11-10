@@ -1,0 +1,85 @@
+body{
+
+    background-image: url(https://blog.hubspot.es/hubfs/Descarga%20de%20fondos%20para%20pa%CC%81ginas%20web.jpg);
+
+}
+
+form{
+    /*background-color: rgba(189, 229, 255, 0.904);*/
+    background-color:  rgba(90,93,3,0.4);
+  
+
+}
+.header {
+    color: rgba(45, 48, 3, 0.986);
+    font-size: 30px;
+    padding: 10px;
+    
+    
+}
+
+.container{
+ opacity: .9;
+ background-color: rgba(45, 48, 3, 0.986);
+ width: 50%;
+
+}
+
+.bigicon {
+    font-size: 35px;
+    
+}
+
+
+.glyphicon  {
+    
+   color:  rgba(45, 48, 5, 0.986) ;
+   font-size: 25px;
+}
+
+#boton{
+
+    background-color: rgba(120, 128, 16, 0.986) ;
+
+
+
+}
+
+
+/* -------------------------------------------------------------------------------------------------*/
+.fondo{
+
+
+background-image: url(https://image.freepik.com/foto-gratis/diferentes-frutas-hortalizas-frescas-comer-sano-varias-verduras-frescas-organicas-despues-lavado_3236-68.jpg);
+
+}
+
+
+
+#contenedor{
+
+    background-color: rgba(31, 32, 2, 0.986);
+    margin-top: 40px;
+    text-align: center;
+    width: 50%;
+    height: 450px;
+}
+
+#form1{
+    
+    height: 300px;
+}
+
+.registro{
+
+
+    color:white
+}
+
+#well{
+    background-color:  rgba(31, 32, 2, 0.986);
+
+}
+
+
+    
