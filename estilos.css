@@ -78,6 +78,44 @@ background-image: url(https://image.freepik.com/foto-gratis/diferentes-frutas-ho
 
 #well{
     background-color:  rgba(31, 32, 2, 0.986);
+    
+
+
+}
+/*-------------------------------------------------------------------------------------------*/
+
+#contenedor2{
+    
+   background-color: rgba(31, 32, 2, 0.986);
+    margin-top: 40px;
+    text-align: center;
+    width: 50%;
+  
+  
+}
+
+
+.fondo1{
+
+
+    background-image: url(https://t3.ftcdn.net/jpg/02/30/91/16/240_F_230911654_oBtpNGOCg0vPnx0ugt6sosacPuspvOca.jpg);
+    margin-top: 3px;
+    text-align: center;
+}
+
+#form2{
+
+    height: 250px;
+    
+
+   
+}
+
+#boton1{
+
+margin-bottom: 10px;
+background-color: rgba(120, 128, 16, 0.986) 
+
 
 }
 
